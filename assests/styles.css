@@ -63,6 +63,7 @@ p {
 img {
     float: inline-start;
     margin-right: 25px;
+    max-height: 150px;
 }
 
 .right {
@@ -113,18 +114,6 @@ article {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 150px;
-}
-
-.online-reputation-management img {
-    max-height: 150px;
-}
-
-.social-media-marketing img {
-    max-height: 150px;
 }
 
  h2 {
