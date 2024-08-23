@@ -63,7 +63,7 @@ p {
 img {
     float: inline-start;
     margin-right: 25px;
-    max-height: 150px;
+    max-height: 200px;
 }
 
 .right {
@@ -107,7 +107,7 @@ content {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    max-height: 200px;
+    max-height: 150px;
     float: none;
 
 }
